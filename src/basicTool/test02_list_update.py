@@ -1,0 +1,11 @@
+testList=['x','y','z']
+#添加元素-末尾
+testList.append("u")
+print(testList)
+#指定位置查询
+testList.insert(1,"v")
+print(testList)
+#修改元素
+testList=['x','y','z']
+testList[1]='ok'
+print(testList)

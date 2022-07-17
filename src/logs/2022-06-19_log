@@ -1,0 +1,4 @@
+2022-06-19 17:20:13,135-INFO-logging_demo.py-bktest-日志信息-这是一个info的信息
+2022-06-19 17:20:13,135-WARNING-logging_demo.py-bktest-日志信息-这是一个warning的信息
+2022-06-19 17:20:13,135-ERROR-logging_demo.py-bktest-日志信息-这是一个error的信息
+2022-06-19 17:20:13,135-CRITICAL-logging_demo.py-bktest-日志信息-这是一个critical的信息

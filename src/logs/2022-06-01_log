@@ -1,0 +1,12 @@
+2022-06-01 23:34:22,171-INFO-logging_demo.py-bktest-日志信息-这是一个info的信息
+2022-06-01 23:34:22,171-WARNING-logging_demo.py-bktest-日志信息-这是一个warning的信息
+2022-06-01 23:34:22,171-ERROR-logging_demo.py-bktest-日志信息-这是一个error的信息
+2022-06-01 23:34:22,171-CRITICAL-logging_demo.py-bktest-日志信息-这是一个critical的信息
+2022-06-01 23:34:59,150-INFO-logging_demo.py-bktest-日志信息-这是一个info的信息
+2022-06-01 23:34:59,151-WARNING-logging_demo.py-bktest-日志信息-这是一个warning的信息
+2022-06-01 23:34:59,151-ERROR-logging_demo.py-bktest-日志信息-这是一个error的信息
+2022-06-01 23:34:59,151-CRITICAL-logging_demo.py-bktest-日志信息-这是一个critical的信息
+2022-06-01 23:35:00,554-INFO-logging_demo.py-bktest-日志信息-这是一个info的信息
+2022-06-01 23:35:00,555-WARNING-logging_demo.py-bktest-日志信息-这是一个warning的信息
+2022-06-01 23:35:00,555-ERROR-logging_demo.py-bktest-日志信息-这是一个error的信息
+2022-06-01 23:35:00,555-CRITICAL-logging_demo.py-bktest-日志信息-这是一个critical的信息
